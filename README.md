@@ -34,8 +34,13 @@
 # 🎮 Space Invaders Arcade (Auto-Play)
 
 <p align="center">
-  <!-- Interactive Space Invaders Engine -->
+  <!-- Interactive Space Invaders Engine (No workflow needed!) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Auto-Shooter Animation -->
+  <img src="https://user-images.githubusercontent.com/20912324/114197395-8167f880-9943-11eb-93cb-33d317066b57.gif" width="100%" alt="Space Invaders Playing" />
 </p>
 
 <p align="center">
