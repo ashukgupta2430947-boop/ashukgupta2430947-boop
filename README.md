@@ -1,251 +1,105 @@
-<!-- HEADING & HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ashuk%20Gupta&fontSize=80&animation=twinkling&theme=dark" alt="Ashuk's Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Ashuk%20Gupta&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
-<!-- VISITOR COUNTER & BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=ashukgupta2430947-boop&label=PROFILE+VIEWS&color=0078d4&style=flat-square" alt="Visitor Counter" />
-  <a href="https://linkedin.com/in/ashuk-gupta-1404bb324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ashukgupta2430947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://3-d-portfolio-iota-red.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+BCA+Student+(2024–2027);💻+Java+&amp;+Frontend+Developer;🧠+DSA+Enthusiast;🌐+Building+Full+Stack+Projects" />
 </p>
 
-<!-- ANIMATED TYPING EFFECT -->
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=BCA+Student+(2024%E2%80%932027);Aspiring+SDE;Full+Stack+Developer;DSA+%26+Problem+Solver" alt="Typing SVG" />
-  </a>
-</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <img src="https://komarev.com/ghpvc/?username=ashukgupta2430947-boop&label=Profile+Views&color=00F7FF&style=flat-square"/>
 </p>
 
-<!-- GITHUB TROPHIES -->
-<h3 align="center">🏆 MY GITHUB TROPHIES 🏆</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashukgupta2430947-boop&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
+---
 
-<br />
+# 💫 About Me
 
-<!-- ABOUT ME SECTION -->
 <table align="center" width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 ABOUT ME</h3>
-      <p>Hello World! I'm <strong>Ashuk Gupta</strong>, a passionate and driven <strong>Bachelor of Computer Applications (BCA)</strong> student based in India, graduating in 2027. My ultimate technical goal is to build scalable, premium, and interactive software solutions as a <strong>Software Development Engineer (SDE)</strong> / <strong>Full Stack Developer</strong>.</p>
-      <p>I thrive on turning complex logic into structured code and continuous optimization. When I'm not configuring a layout or debugging algorithms, I spend time exploring next-gen frontend interactions and optimizing architectures.</p>
-      <ul>
-        <li>🌍 Based in: <strong>India</strong></li>
-        <li>🎓 Education: <strong>BCA (2024 - 2027)</strong></li>
-        <li>💼 Open to: <strong>Internships & Open Source Collaborations</strong></li>
-      </ul>
+    <td width="60%" valign="top">
+      <p>🎓 <b>BCA Student</b> (2024–2027)</p>
+      <p>💻 Passionate about building modern web applications with beautiful UI/UX and smooth animations.</p>
+      <p>🌱 <b>Currently Mastering:</b> Java, Data Structures & Algorithms, and Backend Development.</p>
+      <p>🎯 <b>Goal:</b> Securing a Software Development Internship.</p>
+      <p>⚡ <b>Fun Fact:</b> I can spend hours tweaking CSS animations just to get that "perfect" feel.</p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=ashukgupta2430947-boop&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Ashuk's Stats Overview" width="100%" />
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220px"/>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-<!-- CODING THEMED DIVIDER -->
+# 👾 Retro Space Invaders (Auto-Play Mode)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <!-- Dynamic Space Invaders Game Rendering -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-<!-- TECH STACK -->
-<h3 align="center">🛠️ TECH STACK & TOOLS</h3>
-<p align="center">The infrastructure powering my codebases and logic engines:</p>
-
-<div align="center">
-  <!-- Languages -->
-  <p><strong>Languages:</strong></p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <br/><br/>
-  
-  <!-- Frontend & Backend -->
-  <p><strong>Frontend & Databases:</strong></p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  
-  <br/><br/>
-  
-  <!-- Dev Tools & Concepts -->
-  <p><strong>Developer Ecosystem & Strengths:</strong></p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/DSA-Data_Structures-008080?style=for-the-badge&logo=databricks&logoColor=white" alt="DSA" />
-  <img src="https://img.shields.io/badge/Problem_Solving-Creative-FF4500?style=for-the-badge&logo=probot&logoColor=white" alt="Problem Solving" />
-</div>
-
-<br />
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <!-- Retro Game Action GIF showing Spaceship shooting the contribution blocks -->
+  <img src="https://user-images.githubusercontent.com/20912324/114197395-8167f880-9943-11eb-93cb-33d317066b57.gif" width="100%" alt="Space Invaders Playing" />
 </p>
 
-<!-- CURRENTLY LEARNING & GOALS -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 CURRENTLY LEARNING</h3>
-      <ul>
-        <li>Advanced MERN Stack development patterns.</li>
-        <li>Advanced Data Structures and Graph Algorithms.</li>
-        <li>System Design concepts and standard microservices architecture.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 GOALS FOR 2026</h3>
-      <ul>
-        <li>Build 2 full-scale enterprise-ready web applications.</li>
-        <li>Solve 500+ dynamic programming and complex DSA problems.</li>
-        <li>Secure an impactful software engineering internship.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <b>🛸 Invaders Destroyed: <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&color=FF3366&center=false&vCenter=true&width=150&lines=98,420+pts;👾+WAVE+15;💥+CRITICAL+HIT!" /></b>
 </p>
 
-<!-- FEATURED PROJECTS -->
-<h3 align="center">⚡ FEATURED ARCHITECTURES & PROJECTS ⚡</h3>
-<br />
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <h4 align="center">📅 Study Flow</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/Tech-JS%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" alt="Tech Stack" />
-      </p>
-      <p>A comprehensive student study planner and productivity platform engineered to maximize academic performance, track milestones, and eliminate digital distractions efficiently.</p>
-    </td>
-    <td width="50%">
-      <h4 align="center">🎨 Kinex Art</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/Tech-Frontend%20Design-orange?style=flat-square" alt="Tech Stack" />
-      </p>
-      <p>A modern digital art exhibition application showcasing creative interactive designs, fluid grid systems, and exceptional layout standards for creative professionals.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🌐 3D Portfolio</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Live-Vercel-black?style=flat-square&logo=vercel" alt="Live" />
-        <img src="https://img.shields.io/badge/Tech-Three.js%20%7C%20Animations-purple?style=flat-square" alt="Tech Stack" />
-      </p>
-      <p>An immersive digital resume experiencing flawless 3D rendering engine implementations and user-centric navigation animations. 
-      <br/><a href="https://3-d-portfolio-iota-red.vercel.app/"><strong>Explore Live ↗</strong></a></p>
-    </td>
-    <td width="50%">
-      <h4 align="center">☕ Java & DSA Repository</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Focus-Core%20Algorithms-red?style=flat-square" alt="Focus" />
-        <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square" alt="Language" />
-      </p>
-      <p>A structured database of problem solutions, algorithmic methodologies, and core data structure systems designed for highly optimal runtime performance.</p>
-    </td>
-  </tr>
-</table>
+# 🚀 Featured Projects
 
-<br />
+| Project Name | Tech Stack | Links |
+| :--- | :--- | :--- |
+| **📚 Study Flow** <br><sub>Efficient study schedule & task manager.</sub> | `HTML` `CSS` `JS` `Node.js` `MongoDB` | [🌐 Live](https://github.com/ashukgupta2430947-boop) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **🎨 Kinex Art** <br><sub>Digital art platform with premium UI.</sub> | `HTML` `CSS` `JavaScript` | [🌐 Live](https://github.com/ashukgupta2430947-boop) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **🌌 3D Portfolio** <br><sub>Interactive animated portfolio website.</sub> | `React` `Three.js` `Tailwind` | [🌐 Live](https://3-d-portfolio-iota-red.vercel.app/) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **💻 Java & DSA** <br><sub>Solved DSA problems & core Java concepts.</sub> | `Java` `DSA` | [💻 Code](https://github.com/ashukgupta2430947-boop) |
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mongodb,git,github,vscode,nodejs,express,react" />
 </p>
 
-<!-- GITHUB ADVANCED METRICS -->
-<h3 align="center">📊 DEEP METRICS & INSIGHTS 📊</h3>
-<br />
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukgupta2430947-boop&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashukgupta2430947-boop&show_icons=true&theme=tokyonight&circle=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukgupta2430947-boop&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=ashukgupta2430947-boop&theme=tokyonight" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=ashukgupta2430947-boop&theme=tokyonight&row=1&column=3" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashuk-gupta-1404bb324/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukgupta2430947-boop&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="mailto:ashukgupta2430947@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://3-d-portfolio-iota-red.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<br />
-
-<!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
-<h3 align="center">🐍 CONTRIBUTION MATRIX ANIMATION 🐍</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashukgupta2430947-boop/ashukgupta2430947-boop/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-<br />
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-</p>
-
-<!-- MISCELLANEOUS EXTRA METRICS AND FUN FACTS -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ FUN FACTS</h3>
-      <ul>
-        <li>☕ I can convert caffeine into completely error-free production code blocks.</li>
-        <li>💻 I prefer dark mode IDEs because light attracts bugs!</li>
-        <li>🔍 Finding an optimal $O(\log n)$ algorithm gives me an absolute dopamine hit.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ SUPPORT</h3>
-      <p>If you love what I am building, find my open-source logic helpful, or want to discuss project concepts, consider starring my repositories! Your support fuels my midnight development cycles.</p>
-      <p align="left">
-        <a href="https://github.com/ashukgupta2430947-boop?tab=stars"><img src="https://img.shields.io/badge/Star%20My%20Repos-FFD700?style=for-the-badge&logo=githubstars&logoColor=black" alt="Star Repos" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- INSPIRATIONAL QUOTE -->
-<p align="center">
-  <sub><i>"The best way to predict the future is to invent it." — Alan Kay</i></sub>
-</p>
-
-<!-- CONNECT WITH ME SECTION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-</p>
-
-<h3 align="center">🤝 CONNECT WITH ME 🤝</h3>
-<p align="center">Let's collaborate on transforming standard ideas into world-class digital applications!</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashuk-gupta-1404bb324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:ashukgupta2430947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
-  &nbsp;&nbsp;
-  <a href="https://3-d-portfolio-iota-red.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Button" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=dark" alt="Ashuk's Footer Banner" />
+  <i>"Code with purpose. Learn with curiosity. Build with passion."</i> <br><br>
+  <img src="https://raw.githubusercontent.com/MariProfessional/MariProfessional/main/images/gato.gif" width="50px" /> <br>
+  <b>Thanks for visiting! Don't forget to star my repositories.</b>
 </p>
