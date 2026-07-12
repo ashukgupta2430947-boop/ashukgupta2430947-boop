@@ -31,6 +31,24 @@
 
 ---
 
+# 🎮 Retro Gaming Zone (Auto-Play Mode)
+
+<p align="center">
+  <!-- Pacman / Space Invaders Retro Simulation Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&text=⚡+GAME+START+⚡&fontSize=30&fontColor=00F7FF" width="100%"/>
+</p>
+
+<p align="center">
+  <!-- Ghost running animation simulator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pacman Playing" />
+</p>
+
+<p align="center">
+  <b>🎮 Score: <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&color=FFD700&center=false&vCenter=true&width=100&lines=9999+pts;🔥+COMBO!;120K+XP" /></b>
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 | Project Name | Tech Stack | Links |
@@ -47,25 +65,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mongodb,git,github,vscode,nodejs,express,react" />
 </p>
-
----
-
-# 🎮 Play A Game! (Octocat's Space Adventure)
-
-Aapko kya lagta hai, aap sahi decisions lekar space me survive kar payenge? **Niche diye gaye options me se kisi ek par click karke game shuru karein!**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BndjR2YW45N3JpZnVwdnB5bm55ZzJ5eGx4OHg0M21pOHd4ZndubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k11LxuM7d1ce8E/giphy.gif" width="300px"/>
-</p>
-
-### 🌌 Stage 1: The Asteroid Field
-Aapka spaceship ek bhayanak asteroid field me phas gaya hai! Aap kya karenge?
-
-*   [🚀 Option A: Hyperdrive activate karo aur speed badhao!](https://github.com/ashukgupta2430947-boop/ashukgupta2430947-boop/issues/new?title=Game:+Option+A+Selected&body=Boom!+Hyperdrive+fail+ho+gaya+aur+aap+ek+bade+asteroid+se+takra+gaye.+Game+Over!+❌)
-*   [🛡️ Option B: Shields up karo aur dheere-dheere rasta nikalo.](https://github.com/ashukgupta2430947-boop/ashukgupta2430947-boop/issues/new?title=Game:+Option+B+Selected&body=Smart+Move!+Aap+safely+asteroid+field+se+bahar+nikal+gaye+aur+aapko+ek+hidden+space+station+mila.+Aap+jeet+gaye!+🏆)
-*   [📡 Option C: Help ke liye emergency signal bhejo.](https://github.com/ashukgupta2430947-boop/ashukgupta2430947-boop/issues/new?title=Game:+Option+C+Selected&body=Space+Pirates+ne+aapka+signal+sun+liya+aur+aapka+ship+loot+liya!+Game+Over!+🏴‍☠️)
-
-*(Tip: Kisi bhi option par click karne se ek preset issue page open hoga jo aapka result live dikhayega!)*
 
 ---
 
