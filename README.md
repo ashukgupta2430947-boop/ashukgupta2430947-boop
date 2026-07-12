@@ -31,20 +31,11 @@
 
 ---
 
-# 👾 Retro Space Invaders (Auto-Play Mode)
+# 🎮 Retro Grid Game (Auto-Play Mode)
 
 <p align="center">
-  <!-- Dynamic Space Invaders Game Rendering -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Retro Game Action GIF showing Spaceship shooting the contribution blocks -->
-  <img src="https://user-images.githubusercontent.com/20912324/114197395-8167f880-9943-11eb-93cb-33d317066b57.gif" width="100%" alt="Space Invaders Playing" />
-</p>
-
-<p align="center">
-  <b>🛸 Invaders Destroyed: <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&color=FF3366&center=false&vCenter=true&width=150&lines=98,420+pts;👾+WAVE+15;💥+CRITICAL+HIT!" /></b>
+  <!-- Ye link automatic aapke dynamic contribution snake game animation ko render karega -->
+  <img src="https://raw.githubusercontent.com/ashukgupta2430947-boop/ashukgupta2430947-boop/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
 </p>
 
 ---
