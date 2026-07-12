@@ -32,7 +32,6 @@
 ---
 
 
-# 🎮 Retro Grid Game (Auto-Play Mode)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashukgupta2430947-boop/ashukgupta2430947-boop/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
@@ -43,9 +42,6 @@
   <img src="https://user-images.githubusercontent.com/20912324/114197395-8167f880-9943-11eb-93cb-33d317066b57.gif" width="100%" alt="Space Invaders Playing" />
 </p>
 
-<p align="center">
-  <b>🛸 Invaders Destroyed: <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&color=FF3366&center=false&vCenter=true&width=150&lines=98,420+pts;👾+WAVE+15;💥+CRITICAL+HIT!" /></b>
-</p>
 
 ---
 
