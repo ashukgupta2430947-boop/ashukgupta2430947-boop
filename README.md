@@ -1,30 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Ashuk%20Gupta&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%" />
+  <!-- Sci-Fi / AI Neural Network Glowing Banner -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWcxMndid3FmNTA2YmU4YTF0YW96NG05cHkyZzJ5OGx4OHg0M21pOHd4ZndubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k11LxuM7d1ce8E/giphy.gif" width="100%" alt="AI Neural Network" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+BCA+Student+(2024–2027);💻+Java+&amp;+Frontend+Developer;🧠+DSA+Enthusiast;🌐+Building+Full+Stack+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+System+Status:+ONLINE;🚀+BCA+Student+|+Java+Developer;🧠+DSA+Enthusiast;🌐+Building+Next-Gen+Web+Applications" />
+</p>
+
+<!-- Interactive AI System Terminal Dashboard -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&text=⚙️+SYSTEM+CORE:+ACTIVE++[++RAM:+16GB++|++AI+CORE:+CONNECTED++|++COMPILER:+JAVA_17++]&fontSize=16&fontColor=00F7FF&fontAlignY=50" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashukgupta2430947-boop&label=Profile+Views&color=00F7FF&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=ashukgupta2430947-boop&label=System+Access+Granted&color=00F7FF&style=flat-square"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 💫 About The Developer
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <p>🎓 <b>BCA Student</b> (2024–2027)</p>
-      <p>💻 Passionate about building modern web applications with beautiful UI/UX and smooth animations.</p>
+      <p>💻 Passionate about building modern web applications with beautiful UI/UX, generative features, and smooth animations.</p>
       <p>🌱 <b>Currently Mastering:</b> Java, Data Structures & Algorithms, and Backend Development.</p>
       <p>🎯 <b>Goal:</b> Securing a Software Development Internship.</p>
       <p>⚡ <b>Fun Fact:</b> I can spend hours tweaking CSS animations just to get that "perfect" feel.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220px"/>
+      <!-- AI Robot Coding GIF -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHg0czFid3FmNTA2YmU4YTF0YW96NG05cHkyZzJ5OGx4OHg0M21pOHd4ZndubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="220px"/>
     </td>
   </tr>
 </table>
@@ -34,7 +41,7 @@
 # 🎮 Retro Grid Game (Auto-Play Mode)
 
 <p align="center">
-  <!-- Ye link automatic aapke dynamic contribution snake game animation ko render karega -->
+  <!-- Dynamic Snake Game (Auto updates with commits!) -->
   <img src="https://raw.githubusercontent.com/ashukgupta2430947-boop/ashukgupta2430947-boop/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
 </p>
 
