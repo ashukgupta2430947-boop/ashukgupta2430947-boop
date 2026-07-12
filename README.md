@@ -169,7 +169,7 @@ Collection of Java programs and DSA solutions.
 
 # 💬 Quote
 
-> "Code. Learn. Build. Repeat."
+> "Code with purpose. Learn with curiosity. Build with passion."
 
 ---
 
