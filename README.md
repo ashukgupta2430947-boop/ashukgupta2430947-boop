@@ -30,7 +30,11 @@
 </table>
 
 ---
+# 🎮 Retro Grid Game (Auto-Play Mode)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
 
 <p align="center">
   <!-- Dynamic Space Invaders Game Rendering -->
