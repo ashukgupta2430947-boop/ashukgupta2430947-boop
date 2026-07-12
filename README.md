@@ -1,176 +1,92 @@
-<h1 align="center">Hi 👋, I'm Ashuk Gupta</h1>
-<h3 align="center">🚀 BCA Student | Java Developer | Frontend Developer | DSA Enthusiast</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Developer;Frontend+Developer;Learning+Backend;DSA+Enthusiast;Building+Awesome+Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Ashuk%20Gupta&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashukgupta2430947-boop&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+BCA+Student+(2024–2027);💻+Java+&amp;+Frontend+Developer;🧠+DSA+Enthusiast;🌐+Building+Full+Stack+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashukgupta2430947-boop&label=Profile+Views&color=00F7FF&style=flat-square"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 BCA Student (2024–2027)
-
-💻 Passionate Frontend Developer
-
-🌱 Currently Learning
-
-- Java
-- Data Structures & Algorithms
-- Backend Development
-
-🚀 I love building real-world projects.
-
-🎯 Goal: Software Development Internship
-
-⚡ Fun Fact:
-
-> I enjoy creating modern websites with beautiful UI and animations.
-
----
-
-# 🌐 Portfolio
-
-### 🚀 Live Portfolio
-
-https://3-d-portfolio-iota-red.vercel.app/
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>🎓 <b>BCA Student</b> at Core (2024–2027)</p>
+      <p>💻 Passionate about building modern web applications with beautiful UI/UX and smooth animations.</p>
+      <p>🌱 <b>Currently Mastering:</b> Java, Data Structures & Algorithms, and Backend Development.</p>
+      <p>🎯 <b>Goal:</b> Securing a Software Development Internship.</p>
+      <p>⚡ <b>Fun Fact:</b> I can spend hours tweaking CSS animations just to get that "perfect" feel.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 Study Flow
-
-A platform that helps students manage study schedules and tasks efficiently.
-
-⭐ HTML
-
-⭐ CSS
-
-⭐ JavaScript
-
-⭐ Node.js
-
-⭐ MongoDB
-
----
-
-## 🎨 Kinex Art
-
-Modern digital art platform with beautiful UI.
-
----
-
-## 🌌 3D Portfolio
-
-Interactive developer portfolio with animations.
-
----
-
-## 💻 Java & DSA
-
-Collection of Java programs and DSA solutions.
+| Project Name | Tech Stack | Links |
+| :--- | :--- | :--- |
+| **📚 Study Flow** <br><sub>Efficient study schedule & task manager.</sub> | `HTML` `CSS` `JS` `Node.js` `MongoDB` | [🌐 Live](https://github.com/ashukgupta2430947-boop) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **🎨 Kinex Art** <br><sub>Digital art platform with premium UI.</sub> | `HTML` `CSS` `JavaScript` | [🌐 Live](https://github.com/ashukgupta2430947-boop) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **🌌 3D Portfolio** <br><sub>Interactive animated portfolio website.</sub> | `React` `Three.js` `Tailwind` | [🌐 Live](https://3-d-portfolio-iota-red.vercel.app/) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **💻 Java & DSA** <br><sub>Solved DSA problems & core Java concepts.</sub> | `Java` `DSA` | [💻 Code](https://github.com/ashukgupta2430947-boop) |
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mongodb,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mongodb,git,github,vscode,nodejs,express,react" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashukgupta2430947-boop&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukgupta2430947-boop&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashukgupta2430947-boop&show_icons=true&theme=tokyonight&circle=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukgupta2430947-boop&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ashukgupta2430947-boop&theme=tokyonight"/>
-
+  <img height="180" src="https://streak-stats.demolab.com?user=ashukgupta2430947-boop&theme=tokyonight" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=ashukgupta2430947-boop&theme=tokyonight&row=1&column=3" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
+### 📈 Contribution Graph
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashukgupta2430947-boop&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&theme=tokyo-night" width="100%" />
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌟 Current Focus
-
-✔ Data Structures & Algorithms
-
-✔ Java Development
-
-✔ Backend Development
-
-✔ Full Stack Projects
-
-✔ Open Source Contributions
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/ashukgupta2430947-boop">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashuk-gupta-1404bb324/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ashukgupta2430947@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://3-d-portfolio-iota-red.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/ashuk-gupta-1404bb324/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ashukgupta2430947@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://3-d-portfolio-iota-red.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-# 💬 Quote
-
-> "Code with purpose. Learn with curiosity. Build with passion."
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+<p align="center">
+  <i>"Code with purpose. Learn with curiosity. Build with passion."</i> <br><br>
+  <img src="https://raw.githubusercontent.com/MariProfessional/MariProfessional/main/images/gato.gif" width="50px" /> <br>
+  <b>Thanks for visiting! Don't forget to star my repositories.</b>
+</p>
