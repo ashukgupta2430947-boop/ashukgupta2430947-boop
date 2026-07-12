@@ -1,101 +1,79 @@
 <p align="center">
-  <!-- Glowing Cyberspace / AI HUD Cinematic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=280&section=header&text=ASHUK%20GUPTA&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Ashuk%20Gupta&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
-<!-- Live Terminal Ticker / Typewriter Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+INITIALIZING+DEVELOPER+SHELL...;💾+CORE:+JAVA_DEVELOPER_V1.0;🌐+FRONTEND:+REACT_+_TAILWIND_CSS;🧠+ALGORITHMS:+DSA_ENTHUSIAST_ACTIVATED" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+BCA+Student+(2024–2027);💻+Java+&amp;+Frontend+Developer;🧠+DSA+Enthusiast;🌐+Building+Full+Stack+Projects" />
 </p>
 
-<!-- Real-time HUD Status Grid -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Engine-CONNECTED-00F7FF?style=flat-square&logo=cpu-pro&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/BCA_Node-STABLE-brightgreen?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security_Protocol-SECURE-success?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=ashukgupta2430947-boop&label=SYSTEM_ACCESSES&color=00F7FF&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=ashukgupta2430947-boop&label=Profile+Views&color=00F7FF&style=flat-square"/>
 </p>
 
 ---
 
-# 🛸 System Core Diagnostics
+# 💫 About Me
 
 <table align="center" width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Host Info</h3>
-      <p><b>&gt; Username:</b> <code>Ashuk Gupta</code></p>
-      <p><b>&gt; Occupation:</b> <code>BCA Undergrad (2024–2027)</code></p>
-      <p><b>&gt; Sector:</b> <code>Java Core & Frontend Architecture</code></p>
-      <p><b>&gt; Sub-System:</b> Currently mastering Data Structures, Algorithms, and scalable Backend nodes.</p>
-      <p><b>&gt; Operations:</b> Building slick, highly-interactive 3D web applications with seamless motion curves.</p>
+    <td width="60%" valign="top">
+      <p>🎓 <b>BCA Student</b> (2024–2027)</p>
+      <p>💻 Passionate about building modern web applications with beautiful UI/UX and smooth animations.</p>
+      <p>🌱 <b>Currently Mastering:</b> Java, Data Structures & Algorithms, and Backend Development.</p>
+      <p>🎯 <b>Goal:</b> Securing a Software Development Internship.</p>
+      <p>⚡ <b>Fun Fact:</b> I can spend hours tweaking CSS animations just to get that "perfect" feel.</p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <!-- High-Tech Holographic Rotating HUD -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIybThwNXpqajM1MXoydmwyNHVmdzZkdzVpMnd4ZndubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc81Cg8Yh0OIn8z86/giphy.gif" width="230px"/>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220px"/>
     </td>
   </tr>
 </table>
 
 ---
 
-# 🎵 Currently Playing in Developer's Brain
-
-<p align="center">
-  <!-- Spotify Aesthetic Dashboard Mock -->
-  <a href="https://spotify.com" target="_blank">
-    <img src="https://novatorem-spotify-card.vercel.app/api/spotify?background_color=0d1117&border_color=00F7FF&text_color=ffffff&bar_color=00F7FF" alt="Spotify Player" width="450px" />
-  </a>
-</p>
-
----
-
-# 🛰️ Active Projects (Grid View)
-
-<p align="center">
-  <a href="https://3-d-portfolio-iota-red.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashukgupta2430947-boop&repo=3-d-portfolio-iota-red&theme=tokyonight&show_owner=true" height="120px" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashukgupta2430947-boop&repo=Study-Flow&theme=tokyonight&show_owner=true" height="120px" />
-</p>
-
----
-
 # 🎮 Retro Grid Game (Auto-Play Mode)
 
 <p align="center">
-  <!-- Dynamic Snake Game (Auto-updates with code commits!) -->
+  <!-- Ye link automatic aapke dynamic contribution snake game animation ko render karega -->
   <img src="https://raw.githubusercontent.com/ashukgupta2430947-boop/ashukgupta2430947-boop/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
 </p>
 
 ---
 
-# ⚡ Mainframe Protocols (Tech Stack)
+# 🚀 Featured Projects
+
+| Project Name | Tech Stack | Links |
+| :--- | :--- | :--- |
+| **📚 Study Flow** <br><sub>Efficient study schedule & task manager.</sub> | `HTML` `CSS` `JS` `Node.js` `MongoDB` | [🌐 Live](https://github.com/ashukgupta2430947-boop) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **🎨 Kinex Art** <br><sub>Digital art platform with premium UI.</sub> | `HTML` `CSS` `JavaScript` | [🌐 Live](https://github.com/ashukgupta2430947-boop) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **🌌 3D Portfolio** <br><sub>Interactive animated portfolio website.</sub> | `React` `Three.js` `Tailwind` | [🌐 Live](https://3-d-portfolio-iota-red.vercel.app/) \| [💻 Code](https://github.com/ashukgupta2430947-boop) |
+| **💻 Java & DSA** <br><sub>Solved DSA problems & core Java concepts.</sub> | `Java` `DSA` | [💻 Code](https://github.com/ashukgupta2430947-boop) |
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <!-- Custom Neon Skill Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,c,cpp,python,git,github,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mongodb,git,github,vscode,nodejs,express,react" />
 </p>
 
 ---
 
-# 📊 Mainframe Metrics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashukgupta2430947-boop&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ashukgupta2430947-boop&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashukgupta2430947-boop&show_icons=true&theme=tokyonight&circle=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukgupta2430947-boop&layout=compact&theme=tokyonight" />
 </p>
 
-### 📈 Contributions Matrix
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&theme=tokyo-night" width="100%" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ashukgupta2430947-boop&theme=tokyonight" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=ashukgupta2430947-boop&theme=tokyonight&row=1&column=3" />
 </p>
 
 ---
 
-# 📫 Open Transmission Link
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashuk-gupta-1404bb324/" target="_blank">
@@ -113,6 +91,6 @@
 
 <p align="center">
   <i>"Code with purpose. Learn with curiosity. Build with passion."</i> <br><br>
-  <img src="https://media.giphy.com/media/S60CrSsrLIrc9g5S88/giphy.gif" width="60px" /> <br>
-  <b>Thanks for visiting my mainframe system! 👽</b>
+  <img src="https://raw.githubusercontent.com/MariProfessional/MariProfessional/main/images/gato.gif" width="50px" /> <br>
+  <b>Thanks for visiting! Don't forget to star my repositories.</b>
 </p>
