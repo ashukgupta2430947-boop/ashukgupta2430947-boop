@@ -31,20 +31,20 @@
 
 ---
 
-# 🎮 Retro Gaming Zone (Auto-Play Mode)
+# 👾 Retro Space Invaders (Auto-Play Mode)
 
 <p align="center">
-  <!-- Pacman / Space Invaders Retro Simulation Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&text=⚡+GAME+START+⚡&fontSize=30&fontColor=00F7FF" width="100%"/>
+  <!-- Dynamic Space Invaders Game Rendering -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <!-- Ghost running animation simulator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pacman Playing" />
+  <!-- Retro Game Action GIF showing Spaceship shooting the contribution blocks -->
+  <img src="https://user-images.githubusercontent.com/20912324/114197395-8167f880-9943-11eb-93cb-33d317066b57.gif" width="100%" alt="Space Invaders Playing" />
 </p>
 
 <p align="center">
-  <b>🎮 Score: <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&color=FFD700&center=false&vCenter=true&width=100&lines=9999+pts;🔥+COMBO!;120K+XP" /></b>
+  <b>🛸 Invaders Destroyed: <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&color=FF3366&center=false&vCenter=true&width=150&lines=98,420+pts;👾+WAVE+15;💥+CRITICAL+HIT!" /></b>
 </p>
 
 ---
@@ -78,11 +78,6 @@
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=ashukgupta2430947-boop&theme=tokyonight" />
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=ashukgupta2430947-boop&theme=tokyonight&row=1&column=3" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&theme=tokyo-night" width="100%" />
 </p>
 
 ---
