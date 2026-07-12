@@ -31,7 +31,11 @@
 
 ---
 
-# 👾 Retro Space Invaders (Auto-Play Mode)
+# 🎮 Retro Grid Game (Auto-Play Mode)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashukgupta2430947-boop/ashukgupta2430947-boop/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
+</p>
 
 <p align="center">
   <!-- Dynamic Space Invaders Game Rendering -->
