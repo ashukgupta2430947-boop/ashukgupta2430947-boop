@@ -31,12 +31,17 @@
 
 ---
 
-# 🎮 Retro Grid Game (Auto-Play Mode)
+# 🎮 Space Invaders Arcade (Auto-Play)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashukgupta2430947-boop/ashukgupta2430947-boop/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
+  <!-- Interactive Space Invaders Engine -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
+<p align="center">
+  <!-- Auto-Shooter Animation -->
+  <img src="https://user-images.githubusercontent.com/20912324/114197395-8167f880-9943-11eb-93cb-33d317066b57.gif" width="100%" alt="Space Invaders Playing" />
+</p>
 <p align="center">
   <!-- Dynamic Space Invaders Game Rendering -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashukgupta2430947-boop&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
