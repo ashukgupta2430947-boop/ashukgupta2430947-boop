@@ -17,7 +17,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>🎓 <b>BCA Student</b> at Core (2024–2027)</p>
+      <p>🎓 <b>BCA Student</b> (2024–2027)</p>
       <p>💻 Passionate about building modern web applications with beautiful UI/UX and smooth animations.</p>
       <p>🌱 <b>Currently Mastering:</b> Java, Data Structures & Algorithms, and Backend Development.</p>
       <p>🎯 <b>Goal:</b> Securing a Software Development Internship.</p>
@@ -47,6 +47,25 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mongodb,git,github,vscode,nodejs,express,react" />
 </p>
+
+---
+
+# 🎮 Play A Game! (Octocat's Space Adventure)
+
+Aapko kya lagta hai, aap sahi decisions lekar space me survive kar payenge? **Niche diye gaye options me se kisi ek par click karke game shuru karein!**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BndjR2YW45N3JpZnVwdnB5bm55ZzJ5eGx4OHg0M21pOHd4ZndubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k11LxuM7d1ce8E/giphy.gif" width="300px"/>
+</p>
+
+### 🌌 Stage 1: The Asteroid Field
+Aapka spaceship ek bhayanak asteroid field me phas gaya hai! Aap kya karenge?
+
+*   [🚀 Option A: Hyperdrive activate karo aur speed badhao!](https://github.com/ashukgupta2430947-boop/ashukgupta2430947-boop/issues/new?title=Game:+Option+A+Selected&body=Boom!+Hyperdrive+fail+ho+gaya+aur+aap+ek+bade+asteroid+se+takra+gaye.+Game+Over!+❌)
+*   [🛡️ Option B: Shields up karo aur dheere-dheere rasta nikalo.](https://github.com/ashukgupta2430947-boop/ashukgupta2430947-boop/issues/new?title=Game:+Option+B+Selected&body=Smart+Move!+Aap+safely+asteroid+field+se+bahar+nikal+gaye+aur+aapko+ek+hidden+space+station+mila.+Aap+jeet+gaye!+🏆)
+*   [📡 Option C: Help ke liye emergency signal bhejo.](https://github.com/ashukgupta2430947-boop/ashukgupta2430947-boop/issues/new?title=Game:+Option+C+Selected&body=Space+Pirates+ne+aapka+signal+sun+liya+aur+aapka+ship+loot+liya!+Game+Over!+🏴‍☠️)
+
+*(Tip: Kisi bhi option par click karne se ek preset issue page open hoga jo aapka result live dikhayega!)*
 
 ---
 
